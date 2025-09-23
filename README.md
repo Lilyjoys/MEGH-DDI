@@ -32,7 +32,7 @@ Available options include:
 - `drugbank_t_2`
 - `drugbank_s1_0`
 
-```
+
 
 
 ## 🚀 Training Scripts
@@ -43,9 +43,8 @@ Available options include:
 python train_drugbank_induc.py
 
 # Transductive
-python train_drugbank_train.py
+python train_drugbank_trans.py
 ```
-
 ### Miner
 ```bash
 # Inductive
