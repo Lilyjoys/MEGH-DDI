@@ -19,7 +19,6 @@ conda install pytorch=1.12.1 torchvision=0.13.1 torchaudio=0.12.1 cudatoolkit=11
 conda install numpy=1.21.5 scipy=1.7.3 scikit-learn=1.0.2 matplotlib seaborn pandas
 ```
 
----
 
 ## 📂 Dataset Configuration
 
@@ -30,8 +29,6 @@ Available options include:
 - `miner_t`
 - `drugbank_t_2`
 - `drugbank_s1_0`
-
-
 
 
 ## 🚀 Training Scripts
@@ -53,5 +50,5 @@ python train_miner_induc.py
 python train_miner_trans.py
 ```
 
----
+
 
