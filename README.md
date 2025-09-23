@@ -34,7 +34,6 @@ Available options include:
 
 ```
 
----
 
 ## 🚀 Training Scripts
 
