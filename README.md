@@ -1,7 +1,7 @@
 
 ## **MEGH-DDI:Edge-Aware Graph Learning with Hop2Token Representations for Drug–Drug Interaction Prediction Using Large Language Models**
 
-This project implements a framework for **drug–drug interaction (DDI) prediction**, combining **edge-aware graph learning** with **Hop2Token molecular representations**.It supports **DrugBank** and **Miner** datasets under both **inductive** and **transductive** settings, with ready-to-run training scripts.
+This project implements a framework for **drug–drug interaction (DDI) prediction**, combining **edge-aware graph learning** with **Hop2Token molecular representations**.It supports **DrugBank** and **ChChMiner** datasets under both **inductive** and **transductive** settings, with ready-to-run training scripts.
 
 ---
 
