@@ -36,18 +36,18 @@ Available options include:
 ### DrugBank
 ```bash
 # Inductive
-python train_drugbank_induc.py
+python train_drugbank_induc_loss.py
 
 # Transductive
-python train_drugbank_trans.py
+python train_drugbank_trans_loss.py
 ```
 ### Miner
 ```bash
 # Inductive
-python train_miner_induc.py
+python train_miner_induc_loss.py
 
 # Transductive
-python train_miner_trans.py
+python train_miner_trans_loss.py
 ```
 
 
